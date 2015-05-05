@@ -3,29 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>pivotal.push.serviceUrl</key>
-	<string>http://push-notifications.borg.vchs.cfms-apps.com</string>
+	<string>http://push-notifications.mobile.piv-demo.com</string>
 	<key>pivotal.push.platformUuidDevelopment</key>
-	<string>.</string>
+	<string>652dffed-55c1-49e6-8ddd-76ed2688a4e7</string>
 	<key>pivotal.push.platformSecretDevelopment</key>
-	<string>.</string>
+	<string>06091bbd-26bc-4f7a-ad96-6972cbfa2f88</string>
 	<key>pivotal.push.platformUuidProduction</key>
 	<string>8412f3d4-9cfb-436f-bed8-5c795f3e80d8</string>
 	<key>pivotal.push.platformSecretProduction</key>
 	<string>cd791d8c-840a-4a9d-af04-e6bc83580795</string>
 	<key>pivotal.auth.tokenUrl</key>
-	<string>http://datasync-authentication.borg.vchs.cfms-apps.com/token</string>
+	<string>https://www.googleapis.com/oauth2/v3/token</string>
 	<key>pivotal.auth.authorizeUrl</key>
-	<string>http://datasync-authentication.borg.vchs.cfms-apps.com/authorize</string>
+	<string>https://accounts.google.com/o/oauth2/auth</string>
 	<key>pivotal.auth.redirectUrl</key>
-	<string>io.pivotal.ios.data://oauth2callback</string>
+	<string>http://pivotal.io/auth/oauth2callback</string>
 	<key>pivotal.auth.clientId</key>
-	<string>ios-client</string>
+	<string>752344106353-tp9sitkm4i74nk3k00ci9ffmoir09meu.apps.googleusercontent.com</string>
 	<key>pivotal.auth.clientSecret</key>
-	<string>006d0cea91f01a82cdc57afafbbc0d26c8328964029d5b5eae920e2fdc703169</string>
+	<string>8JOO7oHxddbLyJQfnXnLu71W</string>
 	<key>pivotal.auth.scopes</key>
-	<string>openid offline_access</string>
+	<string>openid</string>
 	<key>pivotal.data.serviceUrl</key>
-	<string>http://datasync-datastore.borg.vchs.cfms-apps.com/data/transit</string>
+	<string>http://datasync-datastore.mobile.piv-demo.com/data/transit</string>
 	<key>pivotal.data.collisionStrategy</key>
 	<string>OptimisticLocking</string>
 </dict>

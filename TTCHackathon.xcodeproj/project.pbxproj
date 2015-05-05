@@ -494,6 +494,7 @@
 					"$(PROJECT_DIR)/Pods/build/Debug-iphoneos",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8889873d-c138-4bc7-82e4-60448b884b7c";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -520,6 +521,7 @@
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8889873d-c138-4bc7-82e4-60448b884b7c";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
