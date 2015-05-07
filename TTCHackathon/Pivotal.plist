@@ -5,13 +5,13 @@
 	<key>pivotal.push.serviceUrl</key>
 	<string>http://push-notifications.mobile.piv-demo.com</string>
 	<key>pivotal.push.platformUuidDevelopment</key>
-	<string>652dffed-55c1-49e6-8ddd-76ed2688a4e7</string>
+	<string>8fe39e33-142c-4854-b351-c1fbb0c17c66</string>
 	<key>pivotal.push.platformSecretDevelopment</key>
-	<string>06091bbd-26bc-4f7a-ad96-6972cbfa2f88</string>
+	<string>221c675a-0060-4c7a-8de4-fce8ad713467</string>
 	<key>pivotal.push.platformUuidProduction</key>
-	<string>8412f3d4-9cfb-436f-bed8-5c795f3e80d8</string>
+	<string>c585582d-29e8-450c-9d5a-4df28b9e853b</string>
 	<key>pivotal.push.platformSecretProduction</key>
-	<string>cd791d8c-840a-4a9d-af04-e6bc83580795</string>
+	<string>eed736f9-7109-42ca-8d2b-5b85d98a1d8e</string>
 	<key>pivotal.auth.tokenUrl</key>
 	<string>https://www.googleapis.com/oauth2/v3/token</string>
 	<key>pivotal.auth.authorizeUrl</key>
